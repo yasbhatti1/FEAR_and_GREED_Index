@@ -1,1 +1,2 @@
-# FEAR_and_GREED_Index
+# FEAR and GREED Index
+
